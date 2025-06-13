@@ -5,4 +5,3 @@ public class GitTest {
         System.out.println("コミットからプッシュまでを行おう！");
     }
 }
-
